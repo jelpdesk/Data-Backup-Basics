@@ -1,4 +1,6 @@
-# Data-Backup-Basics
+# Data Backup Basics Series
+
+> Series of Data blogs by [Jochen (Joe) Meixner](https://community.veeam.com/members/jmeixner-495) to teach users new to data/backup management
 
 [Why Snapshots Are Not Backups](https://community.veeam.com/blogs-and-podcasts-57/data-backup-basics-i-why-snapshots-are-not-backups-understanding-the-differences-6074?tid=6074&fid=57)
 
