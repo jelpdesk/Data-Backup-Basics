@@ -18,7 +18,7 @@
 
 [Data Classification - A Crucial Pillar in Effective Backup and Recovery Strategies](https://community.veeam.com/blogs-and-podcasts-57data-backup-basics-viii-data-classification-a-crucial-pillar-in-effective-backup-and-recovery-strategies-6442?tid=6442&fid=57)
 
-[The Role of Encryption in Backup Solutions](https://community.veeam.com/blogs-and-podcasts-57/data-backup-basics-ix-extending-backup-measurements-understanding-rto-and-rta-6792)
+[Extending Backup Measurements - Understanding RTO and RTA](https://community.veeam.com/blogs-and-podcasts-57/data-backup-basics-ix-extending-backup-measurements-understanding-rto-and-rta-6792)
 
 [The Role of Encryption in Backup Solutions](https://community.veeam.com/blogs-and-podcasts-57/data-backup-basics-x-the-role-of-encryption-in-backup-solutions-6926?tid=6926&fid=57)
 
